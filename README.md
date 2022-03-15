@@ -1,6 +1,6 @@
 # Expense Tracker
  
- Day 2 of the project [5 Days of React]('https://github.com/LucasAlvaresA/5-Days-of-React')
+ Day 2 of the project [5 Days of React]('https://github.com/LucasAlvaresA/5-Days-of-React') <br/>
  Created with ReactJS and TypeScript.
  
  - <a href="https://github.com/LucasAlvaresA/todo-list">Day 1 - To Do List</a>
